@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "enter user name:"
+read user name
+
